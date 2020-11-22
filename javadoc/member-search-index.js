@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"alexei.anatsky.ITMO_konspect.HelloWorldPackage","c":"HelloWorld","l":"HelloWorld(String)","url":"%3Cinit%3E(java.lang.String)"},{"p":"alexei.anatsky.ITMO_konspect.HelloWorldPackage","c":"HelloWorld","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"alexei.anatsky.ITMO_konspect.HelloWorldPackage","c":"HelloWorld","l":"sayHello()"}]

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"alexei.anatsky.ITMO_konspect.HelloWorldPackage"},{"l":"All Packages","url":"allpackages-index.html"}]
