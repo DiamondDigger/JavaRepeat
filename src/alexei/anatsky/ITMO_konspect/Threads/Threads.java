@@ -24,9 +24,7 @@ public class Threads {
 
         Thread firstThread = new Thread(new FirstThread());
         SecondThread secondThread = new SecondThread();
-        Thread thirdThread = new Thread(() -> {
-                System.out.println("Third Thread** method run..");
-            });
+        Thread thirdThread = new Thread(() -> System.out.println("Third Thread** method run.."));
 
         firstThread.start();
         secondThread.start();
