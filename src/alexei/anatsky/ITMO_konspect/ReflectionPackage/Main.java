@@ -72,7 +72,7 @@ public class Main {
             Object object = constructor.newInstance();
             SimpleClass s = (SimpleClass) object;
             s.boost(15);
-            
+
             Field fieldStamina = c.getDeclaredField("stamina");
             fieldStamina.setAccessible(true);
             fieldStamina.set(s, 1);
